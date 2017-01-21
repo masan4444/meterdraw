@@ -1,0 +1,7 @@
+#Thu Jan 12 13:36:41 JST 2017
+base.0=C\:\\AndroidStudio\\meterdraw\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f8f44ac026cbcf230d0b237b88bc7c9ed85e69a2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\AndroidStudio\\meterdraw\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_db3d9ad840f1e5956382b9a71ff3a74ff3d1fb73\\classes.dex
+base.1=C\:\\AndroidStudio\\meterdraw\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_db3d9ad840f1e5956382b9a71ff3a74ff3d1fb73
+file.0=C\:\\AndroidStudio\\meterdraw\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f8f44ac026cbcf230d0b237b88bc7c9ed85e69a2\\classes.dex

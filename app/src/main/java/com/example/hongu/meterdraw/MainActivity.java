@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
 //import static com.example.hongu.meterdraw.R.id.graphView1;
-
+//よろぴこ
 public class MainActivity extends AppCompatActivity {
 
     float ppap;

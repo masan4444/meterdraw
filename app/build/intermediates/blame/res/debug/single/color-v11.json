@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\AndroidStudiogit\\meterdraw\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\AndroidStudiogit\\meterdraw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "C:\\AndroidStudio\\meterdraw\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\AndroidStudio\\meterdraw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
@@ -10,6 +14,10 @@
     {
         "merged": "C:\\AndroidStudio\\meterdraw\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\AndroidStudio\\meterdraw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudiogit\\meterdraw\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\AndroidStudiogit\\meterdraw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\masan\\Documents\\BirdMan\\androidApp\\meterdraw\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",

@@ -6,5 +6,9 @@
     {
         "merged": "C:\\Users\\masan\\Documents\\BirdMan\\androidApp\\meterdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "C:\\Users\\masan\\Documents\\BirdMan\\androidApp\\meterdraw\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudiogit\\meterdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\AndroidStudiogit\\meterdraw\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]

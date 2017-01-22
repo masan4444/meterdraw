@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\AndroidStudiogit\\meterdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\AndroidStudiogit\\meterdraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\AndroidStudio\\meterdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "C:\\AndroidStudio\\meterdraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
